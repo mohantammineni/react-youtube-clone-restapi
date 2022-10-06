@@ -2,7 +2,7 @@ A youtube clone built using react js. This project was bootstrapped with [Create
 
 To make this work for you as it looks in the demo, you have to create an account on Rapid api and add your api key in the configuration file in place of 'YOUR_REST_API_KEY_HERE'.  
 
-To install the dependencies run ### 'npm install'.
+To install the dependencies run ### `npm install`.
 
 To view the application,
 ### `npm start`
